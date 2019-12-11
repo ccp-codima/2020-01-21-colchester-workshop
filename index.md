@@ -66,10 +66,10 @@ The workshop is organised by
 
 If you have questions or suggestions, then please contact the organisers by
 email at
-[alexander.konovalov@st-andrews.ac.uk](mailto:alexander.konovalov@st-andrews.ac.uk).
-[a.litterick@essex.ac.uk](mailto:a.litterick@essex.ac.uk).
-[jesus.martinez-garcia@essex.ac.uk](mailto:jesus.martinez-garcia@essex.ac.uk).
-[gerald.williams@essex.ac.uk](mailto:gerald.williams@essex.ac.uk).
+* [alexander.konovalov@st-andrews.ac.uk](mailto:alexander.konovalov@st-andrews.ac.uk)
+* [a.litterick@essex.ac.uk](mailto:a.litterick@essex.ac.uk).
+* [jesus.martinez-garcia@essex.ac.uk](mailto:jesus.martinez-garcia@essex.ac.uk).
+* [gerald.williams@essex.ac.uk](mailto:gerald.williams@essex.ac.uk).
 
 ## Support
 
