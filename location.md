@@ -14,9 +14,13 @@ Please see below, and the
 for the specific details about which rooms are available
 for our use on which days.
 
-<h2>Address</h2>
+<h2>Maps and travel</h2>
 
-TBA
+Attendees are asked to make their own arrangements for travel and accommodation.
+
+You can find [directions](https://www.essex.ac.uk/life/colchester-campus/how-to-get-here){:target="_blank"} to make your travel arrangements to Colchester.
+
+ [FindYourWay](https://findyourway.essex.ac.uk/){:target="_blank"} is a useful resource to find your way around the maze of rooms. You can also download the app for [Android](https://play.google.com/store/apps/details?id=com.smartne.wai2go&hl=en_GB){:target="_blank"} and [Apple devices](https://apps.apple.com/us/app/findyourway-essex/id583445484){:target="_blank"}.
 
 <h2>Rooms</h2>
 
@@ -32,9 +36,3 @@ Unfortunately since the workshop takes place during term time, we need to change
 **STEM**: STEM Building (where the Department of Mathematical Sciences is located)
 **Lakeview room** is located on the second floor of the Silberrad Centre [STEM 4.1](https://findyourway.essex.ac.uk:8080/share/d92c719d893e2207e00476c787023eb2){:target="_blank"}
 
-<h2>Maps and travel</h2>
-
-Attendees are asked to make their own arrangements for travel and accommodation. 
-[Directions](https://www.essex.ac.uk/life/colchester-campus/how-to-get-here){:target="_blank"}.
-
-Maps: TBA
