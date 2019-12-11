@@ -59,12 +59,17 @@ Registration will be opened shortly.
 
 The workshop is organised by
 
-* [Alexander Konovalov](https://alex-konovalov.github.io/year-archive/)
-* [Jesús Martínez García](http://jesusmartinezgarcia.net/) (local organiser)
+* [Alexander Konovalov](https://alex-konovalov.github.io/year-archive/){:target="_blank"}
+* [Alastair Litterick](https://www.essex.ac.uk/people/litte00606/alastair-litterick){:target="_blank"} (local organiser)
+* [Jesús Martínez García](http://jesusmartinezgarcia.net/){:target="_blank"} (local organiser)
+* [Gerald Williams](https://www.essex.ac.uk/people/willi77405/gerald-williams){:target="_blank"} (local organiser)
 
 If you have questions or suggestions, then please contact the organisers by
 email at
 [alexander.konovalov@st-andrews.ac.uk](mailto:alexander.konovalov@st-andrews.ac.uk).
+[a.litterick@essex.ac.uk](mailto:a.litterick@essex.ac.uk).
+[jesus.martinez-garcia@essex.ac.uk](mailto:jesus.martinez-garcia@essex.ac.uk).
+[gerald.williams@essex.ac.uk](mailto:gerald.williams@essex.ac.uk).
 
 ## Support
 
