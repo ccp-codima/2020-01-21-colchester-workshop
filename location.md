@@ -34,5 +34,5 @@ Unfortunately since the workshop takes place during term time, we need to change
 
 **NTC**: North Teaching Centre
 **STEM**: STEM Building (where the Department of Mathematical Sciences is located)
-**Lakeview room** is located on the second floor of the Silberrad Centre [STEM 4.1](https://findyourway.essex.ac.uk:8080/share/d92c719d893e2207e00476c787023eb2){:target="_blank"}
+**Lakeview room** is located on the second floor of the  [Silberrad Centre](https://findyourway.essex.ac.uk:8080/share/d92c719d893e2207e00476c787023eb2){:target="_blank"}
 
