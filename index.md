@@ -97,6 +97,7 @@ email at
 
 This workshop is organised by [CCP-CoDiMa](http://www.codima.ac.uk)
 (Collaborative Computational Project in the area of Computational
-Discrete Mathematics, supported by the EPSRC grant EP/M022641/1).
+Discrete Mathematics, supported by the EPSRC grant EP/M022641/1)
+in collaboration with the Deparmtent of Mathematical Sciences at Essex.
 
 
