@@ -57,6 +57,13 @@ Registration for the workshop is free.
 [Click here](https://www.eventbrite.co.uk/e/tools-for-discrete-computational-mathematics-tickets-85829389013)
 to register for the workshop.
 
+Certain financial support is available to support travel, accommodation
+and subsistence for UK-based researchers in the area of discrete
+computational mathematics. To apply, please tick the appropriate box
+in the registration form, and the organisers will contact you for
+further details. In case of being oversubscribed, we reserve the right
+to prioritise applications from PhD students and early career researchers.
+
 
 ## <a name="contact"></a> Contact
 
@@ -74,8 +81,10 @@ email at
 * [jesus.martinez-garcia@essex.ac.uk](mailto:jesus.martinez-garcia@essex.ac.uk).
 * [gerald.williams@essex.ac.uk](mailto:gerald.williams@essex.ac.uk).
 
-## Support
+## Sponsors
 
-This workshop is supported by [CCP-CoDiMa](http://www.codima.ac.uk)
-- Collaborative Computational Project in the area of Computational
-Discrete Mathematics (EPSRC grant EP/M022641/1).
+This workshop is organised by [CCP-CoDiMa](http://www.codima.ac.uk)
+(Collaborative Computational Project in the area of Computational
+Discrete Mathematics, supported by the EPSRC grant EP/M022641/1).
+
+
