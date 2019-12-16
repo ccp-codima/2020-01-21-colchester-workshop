@@ -35,6 +35,11 @@ techniques:
 - publish reproducible experiments using
 [Jupyter notebooks](https://jupyter.org/) running on [Binder](https://mybinder.org/).
 
+Instructors:
+- [Alexander Konovalov](https://alex-konovalov.github.io/) (St Andrews)
+- [Michael Torpey](https://mtorpey.github.io/) (St Andrews)
+- [Madeleine Whybrow](https://madeleinewhybrow.wordpress.com/) (Koper)
+
 For the practical sessions, you are encouraged to bring your own code
 from experiment that you run with GAP or SageMath in the past, or
 have a particular problem that you would like to tackle with their
