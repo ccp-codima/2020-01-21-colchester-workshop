@@ -16,7 +16,7 @@ for our use on which days.
 
 <h2>Maps and travel</h2>
 
-Attendees are asked to make their own arrangements for travel and accommodation.
+Attendees are asked to make their own arrangements for travel and accommodation. The university hotel on campus is [Wivenhoe House Hotel](https://www.wivenhoehouse.co.uk/){:target="_blank"} which is 5 minutes from the main buildings on campus and 30 minutes by bus from the city centre.
 
 You can find [directions](https://www.essex.ac.uk/life/colchester-campus/how-to-get-here){:target="_blank"} to make your travel arrangements to Colchester.
 
