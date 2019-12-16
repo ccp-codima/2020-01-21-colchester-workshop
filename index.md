@@ -69,7 +69,7 @@ Registration for the workshop is free.
 [Click here](https://www.eventbrite.co.uk/e/tools-for-discrete-computational-mathematics-tickets-85829389013)
 to register for the workshop.
 
-Certain financial support is available to support travel, accommodation
+Certain financial support is available to cover travel, accommodation
 and subsistence for UK-based researchers in the area of discrete
 computational mathematics. To apply, please tick the appropriate box
 in the registration form, and the organisers will contact you for
