@@ -53,7 +53,10 @@ The workshop will take place at the {{ site.location }}. Information
 about the exact location can be found on
 [the location page]({{ site.baseurl }}/location).
 
-Registration will be opened shortly.
+Registration for the workshop is free.
+[Click here](https://www.eventbrite.co.uk/e/tools-for-discrete-computational-mathematics-tickets-85829389013)
+to register for the workshop.
+
 
 ## <a name="contact"></a> Contact
 
