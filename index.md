@@ -54,10 +54,10 @@ Further information will be posted on [the program page]({{ site.baseurl }}/prog
 
 ### Organisational notepad for the workshop
 
-[Link to the HackMD document for the workshop](https://hackmd.io/@W4sMOUZpT_GtoAgUp_7a9Q/rkjb7t6TS).
-In this notepad, we invite you to share organisational information, and details about
-what you want to work on/have worked on during the workshop. Please contribute to the
-agenda of the workshop to make the most of it!
+[In this notepad](https://hackmd.io/@W4sMOUZpT_GtoAgUp_7a9Q/rkjb7t6TS),
+we invite you to share organisational information, and details about
+what you want to work on/have worked on during the workshop. Please 
+contribute to the agenda of the workshop to make the most of it!
 
 ## Registering and visiting
 
