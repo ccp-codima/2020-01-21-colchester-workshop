@@ -65,7 +65,17 @@ The workshop will take place at the {{ site.location }}. Information
 about the exact location can be found on
 [the location page]({{ site.baseurl }}/location).
 
-Registration for the workshop is free.
+Participation in the workshop is free but registration is essential. 
+Use the form below to start registration via [Eventbrite](https://www.eventbrite.co.uk/e/tools-for-discrete-computational-mathematics-tickets-85829389013).
+
+<iframe
+  src="https://www.eventbrite.com/tickets-external?eid=85829389013&ref=etckt"
+  frameborder="0"
+  width="100%"
+  height="280px"
+  scrolling="auto">
+</iframe>
+
 [Click here](https://www.eventbrite.co.uk/e/tools-for-discrete-computational-mathematics-tickets-85829389013)
 to register for the workshop.
 
