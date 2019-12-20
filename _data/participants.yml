@@ -3,7 +3,9 @@
 
 - name: Erik Bray
   affiliation: CNRS
-
+    links:
+    "Website: website": https://iguananaut.net
+    
 - name: Ihechukwu Chinyere
   affiliation: University of Essex
 
@@ -17,6 +19,7 @@
   affiliation: University of St Andrews
   links:
     "GitHub: alex-konovalov": https://github.com/alex-konovalov
+    "Website: website": https://alex-konovalov.github.io/
 
 - name: Alastair Litterick
   affiliation: University of Essex
@@ -39,6 +42,7 @@
   affiliation: University of St Andrews
   links:
     "GitHub: mtorpey": https://github.com/mtorpey
+    "Website: website": https://mtorpey.github.io/
 
 - name: Alexei Vernitski
   affiliation: University of Essex
@@ -54,4 +58,6 @@
   
 - name: Madeleine Whybrow
   affiliation: University of Primorska
-  
+    links:
+    "Website: website": https://madeleinewhybrow.wordpress.com/
+
