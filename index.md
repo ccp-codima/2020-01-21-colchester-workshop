@@ -36,6 +36,7 @@ techniques:
 [Jupyter notebooks](https://jupyter.org/) running on [Binder](https://mybinder.org/).
 
 Instructors:
+- [Erik Bray](https://iguananaut.net) (CNRS)
 - [Alexander Konovalov](https://alex-konovalov.github.io/) (St Andrews)
 - [Michael Torpey](https://mtorpey.github.io/) (St Andrews)
 - [Madeleine Whybrow](https://madeleinewhybrow.wordpress.com/) (Koper)
