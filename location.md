@@ -16,11 +16,17 @@ for our use on which days.
 
 <h2>Maps and travel</h2>
 
-Attendees are asked to make their own arrangements for travel and accommodation. The university hotel on campus is [Wivenhoe House Hotel](https://www.wivenhoehouse.co.uk/){:target="_blank"} which is 5 minutes from the main buildings on campus and 30 minutes by bus from the city centre.
+Attendees are asked to make their own arrangements for travel and accommodation. Please, see below suggestions for accommodation.
 
 You can find [directions](https://www.essex.ac.uk/life/colchester-campus/how-to-get-here){:target="_blank"} to make your travel arrangements to Colchester.
 
  [FindYourWay](https://findyourway.essex.ac.uk/){:target="_blank"} is a useful resource to find your way around the maze of rooms. You can also download the app for [Android](https://play.google.com/store/apps/details?id=com.smartne.wai2go&hl=en_GB){:target="_blank"} and [Apple devices](https://apps.apple.com/us/app/findyourway-essex/id583445484){:target="_blank"}.
+
+<h2>Accommodation</h2>
+The following are good options for accommodation in Colchester. All are in the route of buses 62 and 62B which take you directly to Campus in about 20 minutes. You can also walk to campus in 40-60 minutes.
+<ol>
+<li>[Wivenhoe House Hotel](https://www.wivenhoehouse.co.uk/){:target="_blank"}. The university hotel on campus, which is 5 minutes from the main buildings on campus and 30 minutes by bus from the city centre. </li>
+</ol>
 
 <h2>Rooms</h2>
 
