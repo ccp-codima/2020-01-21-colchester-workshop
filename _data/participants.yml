@@ -11,7 +11,13 @@
 
 - name: Mehmet Sefa Cihan
   affiliation: University of Essex
-  
+
+- name: Jordan Frost
+  affiliation: University of Bristol
+
+- name: Joe MacColl
+  affiliation: University College London
+
 - name: Shaun Isherwood
   affiliation: University of Essex
 
@@ -32,11 +38,20 @@
 - name: Madalina-Daniela Mihailescu
   affiliation: University of Essex
 
+- name: Diego Millan Berdasco
+  affiliation: Queen Mary University of London
+
 - name: George Papamikos
   affiliation: University of Essex
-
+  
 - name: Theodoros Papazachariou
   affiliation: University of Essex
+
+- name: Emilio Pierro
+  affiliation: London School of Economics
+
+- name: Evans Rhys
+  affiliation: Queen Mary University of London
 
 - name: Michael Torpey
   affiliation: University of St Andrews
@@ -52,7 +67,10 @@
   
 - name: Gerald Williams
   affiliation: University of Essex
-  
+
+- name: James Williams
+  affiliation: University of Bristol
+
 - name: Nivedita Viswanathan
   affiliation: University of Edinburgh
   
@@ -60,4 +78,8 @@
   affiliation: University of Primorska
   links:
     "Website: website": https://madeleinewhybrow.wordpress.com/
+
+- name: Dean Yates
+  affiliation: Queen Mary University of London
+
 
