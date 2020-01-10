@@ -23,16 +23,26 @@ You can find [directions](https://www.essex.ac.uk/life/colchester-campus/how-to-
  [FindYourWay](https://findyourway.essex.ac.uk/){:target="_blank"} is a useful resource to find your way around the maze of rooms. You can also download the app for [Android](https://play.google.com/store/apps/details?id=com.smartne.wai2go&hl=en_GB){:target="_blank"} and [Apple devices](https://apps.apple.com/us/app/findyourway-essex/id583445484){:target="_blank"}.
 
 <h2>Accommodation</h2>
-The following are good options for accommodation in Colchester. All are in the route of buses 62 and 62B which take you directly to Campus in about 20 minutes. You can also walk to campus in 40-60 minutes.
-<ol>
-<li>[Wivenhoe House Hotel](https://www.wivenhoehouse.co.uk/){:target="_blank"}. The university hotel on campus, which is 5 minutes from the main buildings on campus and 30 minutes by bus from the city centre. </li>
- <li>[Best Western Rose and Crown Hotel in Colchester](https://www.roseandcrowncolchester.co.uk/){:target="_blank"}.</li>
- <li>[St Nicholas Hotel](https://www.stnicholashotelcolchester.co.uk/){:target="_blank"}}</li>
- <li>[Brook Red Lion](https://www.booking.com/hotel/gb/brook-redlion.en-gb.html){:target="_blank"}}</li>
- <li>[St Nicholas Hotel](https://www.stnicholashotelcolchester.co.uk/){:target="_blank"}}</li>
-</ol>
+The following are good options for accommodation in Colchester. All are in the route of buses 62 and 62B which take you directly to Campus in about 20 minutes. You can also walk to campus in 40-60 minutes, depending on the hotel.
 
-<h2>Rooms</h2>
+Please, book and pay the accommodation and keep the receipt. If you are covered for funding you will need this to get reimbursed (you should have been contacted by Alexander Konovalov, if in doubt write to him).
+
+[Wivenhoe House Hotel](https://www.wivenhoehouse.co.uk/){:target="_blank"}. The university hotel on campus, which is 5 minutes from the main buildings on campus and 30 minutes by bus from the city centre.
+
+[Best Western Rose and Crown Hotel in Colchester](https://www.roseandcrowncolchester.co.uk/){:target="_blank"}.
+
+[St Nicholas Hotel](https://www.stnicholashotelcolchester.co.uk/){:target="_blank"}
+
+[Brook Red Lion](https://www.booking.com/hotel/gb/brook-redlion.en-gb.html){:target="_blank"}
+
+[North Hill Hotel](http://northhillhotel.com/){:target="_blank"}
+
+[Globe Hotel](https://www.globehotelcolchester.co.uk){:target="_blank"}
+
+[Riverside Hotel](http://colchesterhotel.co.uk/){:target="_blank"}
+
+
+<h2>Workshop Rooms</h2>
 
 Unfortunately since the workshop takes place during term time, we need to change rooms between morning and afternoon (and sometimes lunch). Please, click on the links to find out where each individual room is:
 
