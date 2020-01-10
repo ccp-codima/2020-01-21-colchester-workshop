@@ -37,6 +37,7 @@ techniques:
 
 Instructors:
 - [Erik Bray](https://iguananaut.net) (CNRS)
+- [Christopher Jefferson](https://caj.host.cs.st-andrews.ac.uk/) (St Andrews)
 - [Alexander Konovalov](https://alex-konovalov.github.io/) (St Andrews)
 - [Michael Torpey](https://mtorpey.github.io/) (St Andrews)
 - [Madeleine Whybrow](https://madeleinewhybrow.wordpress.com/) (Koper)
