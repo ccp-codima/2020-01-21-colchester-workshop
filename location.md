@@ -26,6 +26,10 @@ You can find [directions](https://www.essex.ac.uk/life/colchester-campus/how-to-
 The following are good options for accommodation in Colchester. All are in the route of buses 62 and 62B which take you directly to Campus in about 20 minutes. You can also walk to campus in 40-60 minutes.
 <ol>
 <li>[Wivenhoe House Hotel](https://www.wivenhoehouse.co.uk/){:target="_blank"}. The university hotel on campus, which is 5 minutes from the main buildings on campus and 30 minutes by bus from the city centre. </li>
+ <li>[Best Western Rose and Crown Hotel in Colchester](https://www.roseandcrowncolchester.co.uk/){:target="_blank"}.</li>
+ <li>[St Nicholas Hotel](https://www.stnicholashotelcolchester.co.uk/){:target="_blank"}}</li>
+ <li>[Brook Red Lion](https://www.booking.com/hotel/gb/brook-redlion.en-gb.html){:target="_blank"}}</li>
+ <li>[St Nicholas Hotel](https://www.stnicholashotelcolchester.co.uk/){:target="_blank"}}</li>
 </ol>
 
 <h2>Rooms</h2>
