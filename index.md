@@ -68,7 +68,7 @@ about the exact location can be found on
 [the location page]({{ site.baseurl }}/location).
 
 Participation in the workshop is free but registration is essential.
-Registration deadline is 12th January 2020 at 9am.
+Registration deadline is 13th January 2020 at 9am.
 Use the form below to start registration via [Eventbrite](https://www.eventbrite.co.uk/e/tools-for-discrete-computational-mathematics-tickets-85829389013).
 
 <iframe
