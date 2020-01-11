@@ -4,7 +4,7 @@
 - name: Erik Bray
   affiliation: CNRS
   links:
-    "Website ": https://iguananaut.net
+    "Website": https://iguananaut.net
     
 - name: Ihechukwu Chinyere
   affiliation: University of Essex
@@ -25,18 +25,18 @@
   affiliation: University of St Andrews
   links:
     "GitHub: ChrisJefferson": https://github.com/ChrisJefferson
-    "Website: ": https://caj.host.cs.st-andrews.ac.uk/
+    "Website": https://caj.host.cs.st-andrews.ac.uk/
 
 - name: Alexander Konovalov
   affiliation: University of St Andrews
   links:
     "GitHub: alex-konovalov": https://github.com/alex-konovalov
-    "Website: ": https://alex-konovalov.github.io/
+    "Website": https://alex-konovalov.github.io/
 
 - name: Alastair Litterick
   affiliation: University of Essex
   links:
-    "Website ": https://www.essex.ac.uk/people/litte00606/alastair-litt
+    "Website": https://www.essex.ac.uk/people/litte00606/alastair-litt
 
 - name: Madalina-Daniela Mihailescu
   affiliation: University of Essex
@@ -47,7 +47,7 @@
 - name: Jesus Martinez-Garcia
   affiliation: University of Essex
   links:
-    "Website ": http://jesusmartinezgarcia.net/
+    "Website": http://jesusmartinezgarcia.net/
 
 - name: Diego Millan Berdasco
   affiliation: Queen Mary University of London
@@ -65,7 +65,7 @@
   affiliation: University of St Andrews
   links:
     "GitHub: mtorpey": https://github.com/mtorpey
-    "Website: ": https://mtorpey.github.io/
+    "Website": https://mtorpey.github.io/
 
 - name: Alexei Vernitski
   affiliation: University of Essex
@@ -85,7 +85,7 @@
 - name: Madeleine Whybrow
   affiliation: University of Primorska
   links:
-    "Website: ": https://madeleinewhybrow.wordpress.com/
+    "Website": https://madeleinewhybrow.wordpress.com/
 
 - name: Dean Yates
   affiliation: Queen Mary University of London
