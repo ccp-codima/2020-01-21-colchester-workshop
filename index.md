@@ -52,7 +52,8 @@ of GAP and SageMath is desirable. If you have problems with installing
 them, we can try to resolve them in the beginning of the workshop,
 if time permits.
 
-Further information will be posted on [the program page]({{ site.baseurl }}/program).
+Further information is be posted on [the program page]({{ site.baseurl }}/program)
+and in the organisational notepad for the workshop (see below).
 
 ### Organisational notepad for the workshop
 
@@ -68,7 +69,7 @@ about the exact location can be found on
 [the location page]({{ site.baseurl }}/location).
 
 Participation in the workshop is free but registration is essential.
-Registration deadline was on 13th January 2020 at 9am.
+Registration for the workshop is now closed.
 
 Certain financial support is available to cover travel, accommodation
 and subsistence for UK-based researchers in the area of discrete
