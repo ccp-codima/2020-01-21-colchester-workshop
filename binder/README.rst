@@ -2,7 +2,7 @@ A SageMath-based computing environment for binder
 =================================================
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/ccp-codima/2020-01-21-colchester-workshop/master?filepath=public%2Fnotebooks%2Fintroduction_to_sage%2Fintroduction_to_sage_00_table_of_contents.ipynb
+ :target: https://mybinder.org/v2/gh/ccp-codima/2020-01-21-colchester-workshop/master?filepath=public%2Fnotebooks%2Fintroduction_to_sage%2F
 
 This repository illustrates Binder use cases for
 `SageMath <http://sagemath.org>`_.
