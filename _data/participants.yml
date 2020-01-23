@@ -52,7 +52,7 @@
 - name: Diego Millan Berdasco
   affiliation: Queen Mary University of London
   links:
-    "GitHub: Diego-MBer" https://github.com/Diego-MBer
+    "GitHub: Diego-MBer": https://github.com/Diego-MBer
     "Website": https://www.qmul.ac.uk/maths/profiles/millanberdascod.html
 
 - name: George Papamikos
