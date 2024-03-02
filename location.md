@@ -25,7 +25,7 @@ You can find [directions](https://www.essex.ac.uk/life/colchester-campus/how-to-
 <h2>Accommodation</h2>
 The following are good options for accommodation in Colchester. All are in the route of buses 62 and 62B which take you directly to Campus in about 20 minutes. You can also walk to campus in 40-60 minutes, depending on the hotel.
 
-Please, book and pay the accommodation and keep the receipt. If you are covered for funding you will need this to get reimbursed (you should have been contacted by Alexander Konovalov, if in doubt write to him).
+Please, book and pay the accommodation and keep the receipt. If you are covered for funding you will need this to get reimbursed (you should have been contacted by Olexandr Konovalov, if in doubt write to him).
 
 [Wivenhoe House Hotel](https://www.wivenhoehouse.co.uk/){:target="_blank"}. The university hotel on campus, which is 5 minutes from the main buildings on campus and 30 minutes by bus from the city centre.
 

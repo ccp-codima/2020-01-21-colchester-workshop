@@ -38,7 +38,7 @@ techniques:
 Instructors:
 - [Erik Bray](https://iguananaut.net) (CNRS)
 - [Christopher Jefferson](https://caj.host.cs.st-andrews.ac.uk/) (St Andrews)
-- [Alexander Konovalov](https://alex-konovalov.github.io/) (St Andrews)
+- [Olexandr Konovalov](https://olexandr-konovalov.github.io/) (St Andrews)
 - [Michael Torpey](https://mtorpey.github.io/) (St Andrews)
 - [Madeleine Whybrow](https://madeleinewhybrow.wordpress.com/) (Koper)
 
@@ -83,14 +83,14 @@ to prioritise applications from PhD students and early career researchers.
 
 The workshop is organised by
 
-* [Alexander Konovalov](https://alex-konovalov.github.io/year-archive/){:target="_blank"}
+* [Olexandr Konovalov](https://olexandr-konovalov.github.io/){:target="_blank"}
 * [Alastair Litterick](https://www.essex.ac.uk/people/litte00606/alastair-litterick){:target="_blank"} (local organiser)
 * [Jesús Martínez García](http://jesusmartinezgarcia.net/){:target="_blank"} (local organiser)
 * [Gerald Williams](https://www.essex.ac.uk/people/willi77405/gerald-williams){:target="_blank"} (local organiser)
 
 If you have questions or suggestions, then please contact the organisers by
 email at
-* [alexander.konovalov@st-andrews.ac.uk](mailto:alexander.konovalov@st-andrews.ac.uk)
+* [obk1@st-andrews.ac.uk](mailto:obk1@st-andrews.ac.uk)
 * [a.litterick@essex.ac.uk](mailto:a.litterick@essex.ac.uk).
 * [jesus.martinez-garcia@essex.ac.uk](mailto:jesus.martinez-garcia@essex.ac.uk).
 * [gerald.williams@essex.ac.uk](mailto:gerald.williams@essex.ac.uk).
